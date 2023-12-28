@@ -44,40 +44,38 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyDcayFLIUmLDDK2j47aoDl-Mtq4uEBjCCk',
-    appId: '1:310952800025:web:2908f5df3b361948969f88',
-    messagingSenderId: '310952800025',
-    projectId: 'flutter-indi-84de1',
-    authDomain: 'flutter-indi-84de1.firebaseapp.com',
-    storageBucket: 'flutter-indi-84de1.appspot.com',
-    measurementId: 'G-BD3Y68XJ5G',
+    apiKey: 'AIzaSyAvljtUz6HUnUbxO8Ra60RRWhak-Vm2dFw',
+    appId: '1:207963067009:web:6186313175ed1ae350f380',
+    messagingSenderId: '207963067009',
+    projectId: 'iot-43c2f',
+    authDomain: 'iot-43c2f.firebaseapp.com',
+    storageBucket: 'iot-43c2f.appspot.com',
+    measurementId: 'G-G0Z0VBJHP9',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBJR2ll5oGAtsPN3tqgSftEq1lojlTptaU',
-    appId: '1:310952800025:android:c6bf3d21a9b7c5d0969f88',
-    messagingSenderId: '310952800025',
-    projectId: 'flutter-indi-84de1',
-    storageBucket: 'flutter-indi-84de1.appspot.com',
+    apiKey: 'AIzaSyB7XrJpW-SGdb8W4ddN8C6wxsCnpyWcGqc',
+    appId: '1:207963067009:android:a537f3f59218135450f380',
+    messagingSenderId: '207963067009',
+    projectId: 'iot-43c2f',
+    storageBucket: 'iot-43c2f.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyCocF6UpwE39yaOJRaqcQvCwdzbxoFwBJg',
-    appId: '1:310952800025:ios:5d292541eed1acdd969f88',
-    messagingSenderId: '310952800025',
-    projectId: 'flutter-indi-84de1',
-    storageBucket: 'flutter-indi-84de1.appspot.com',
-    iosClientId: '310952800025-nessk6mbd5fq274c2mahpdnppq5v8s5t.apps.googleusercontent.com',
+    apiKey: 'AIzaSyDu4epqJkFwIL8OtlpWltUaIIIru3Gtwn8',
+    appId: '1:207963067009:ios:06c90862cbcf8aca50f380',
+    messagingSenderId: '207963067009',
+    projectId: 'iot-43c2f',
+    storageBucket: 'iot-43c2f.appspot.com',
     iosBundleId: 'com.example.grocery',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyCocF6UpwE39yaOJRaqcQvCwdzbxoFwBJg',
-    appId: '1:310952800025:ios:5d292541eed1acdd969f88',
-    messagingSenderId: '310952800025',
-    projectId: 'flutter-indi-84de1',
-    storageBucket: 'flutter-indi-84de1.appspot.com',
-    iosClientId: '310952800025-nessk6mbd5fq274c2mahpdnppq5v8s5t.apps.googleusercontent.com',
+    apiKey: 'AIzaSyDu4epqJkFwIL8OtlpWltUaIIIru3Gtwn8',
+    appId: '1:207963067009:ios:06c90862cbcf8aca50f380',
+    messagingSenderId: '207963067009',
+    projectId: 'iot-43c2f',
+    storageBucket: 'iot-43c2f.appspot.com',
     iosBundleId: 'com.example.grocery',
   );
 }

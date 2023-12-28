@@ -1,36 +1,26 @@
 {
   "project_info": {
-    "project_number": "310952800025",
-    "project_id": "flutter-indi-84de1",
-    "storage_bucket": "flutter-indi-84de1.appspot.com"
+    "project_number": "207963067009",
+    "project_id": "iot-43c2f",
+    "storage_bucket": "iot-43c2f.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:310952800025:android:d1745a31bb5846f6969f88",
+        "mobilesdk_app_id": "1:207963067009:android:a537f3f59218135450f380",
         "android_client_info": {
           "package_name": "com.example.grocery"
         }
       },
-      "oauth_client": [
-        {
-          "client_id": "310952800025-ee6ooriplg6c0jj10mk9kibvn36aeotd.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
+      "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyBJR2ll5oGAtsPN3tqgSftEq1lojlTptaU"
+          "current_key": "AIzaSyB7XrJpW-SGdb8W4ddN8C6wxsCnpyWcGqc"
         }
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "310952800025-ee6ooriplg6c0jj10mk9kibvn36aeotd.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
+          "other_platform_oauth_client": []
         }
       }
     }
